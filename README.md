@@ -1,4 +1,2 @@
 # Dual-Stream-MHSI
-Offical Code for "Factor Space and Spectrum for Medical Hyperspectral Image Segmentation"
-
-The code will be released soon.
+the code has been transfer to the [Repository](https://github.com/DeepMed-Lab-ECNU/Dual-Stream-MHSI)
