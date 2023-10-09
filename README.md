@@ -2,4 +2,4 @@
 by Boxiang Yun, Qingli Li, Lubov Mitrofanova, Chunhua Zhou & Yan Wang*
 
 
-the code has been transfered to the [Repository](https://github.com/DeepMed-Lab-ECNU/Dual-Stream-MHSI)
+the code has been transfered to this [Repository](https://github.com/DeepMed-Lab-ECNU/Dual-Stream-MHSI)
